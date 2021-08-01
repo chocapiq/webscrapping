@@ -1,0 +1,48 @@
+Dzielnica:
+Ochota - 0
+Mokotów - 1
+Bemowo - 2
+Praga-Południe - 3
+Śródmieście - 4
+Wola - 5
+Włochy - 6
+Ursynów - 7
+Białołęka - 8
+Bielany - 9
+Targówek - 10
+Wilanów - 11
+Ursus - 12
+Żoliborz - 13
+Rembertów - 14
+Praga-Północ - 15
+Wawer - 16
+Wesoła - 17
+
+rodzaj zabudowy:
+blok - 0
+kamienica - 1
+wolnostojacy, szeregowiec - 2
+apartamentowiec, loft - 3
+
+liczba pokoi:
+1 - 0
+2 - 1
+3 - 2
+4+ - 3
+
+powierzchnia:
+0-25 m2 - 0
+26-35 m2 - 1
+36-50 m2 - 2
+50+ m2 - 3
+
+poziom:
+parter - 0
+1-2 piętro - 1
+3-4 piętro - 2
+5+ piętro - 3
+
+
+umeblowanie:
+nie - 0
+tak - 1
